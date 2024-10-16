@@ -2,12 +2,14 @@
 > 프로젝트 기간 : 07/30 ~ 08/07
 
 ## 💡 프로젝트 소개
-
+글로벌 사용자 맞춤 메이트 매칭 및 소통 플랫폼
 
 <br>
 
 ## ⭐️ 프로젝트 목표
-
+- 글로벌 사용자들이 현대백화점을 편안하고 쉽게 이용할 수 있는 글로벌 친화적 환경 조성
+- 실시간 1:1 채팅을 통해 원활한 의사소통 제공
+- 필터링 및 검색 기능을 활용한 맞춤형 글로벌 메이트 매칭
 
 <br>
 
@@ -35,7 +37,15 @@
 
 <br>
 
+## ⚙️ System Architecture
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/71dd63b5-1a79-4cc9-b4fc-16361c4a4207" width="800px">
+</p>
+
 ## 💻 ERD Diagram
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91d199d4-496c-454d-b150-abcb50faedf4" width="800px">
+</p>
 
 
 <br>
@@ -43,7 +53,14 @@
 ## 👥 Developer
   | 손승완 | 김지현 | 조영욱 | 최유경 
   | :---: | :---: | :---: | :---: | 
-  | (사진) | (사진)  | (사진) | (사진) |
+  | <img src="https://github.com/user-attachments/assets/4a27c801-52a1-44ea-9855-96f183fc9c5c" width="150"> | <img src="https://github.com/user-attachments/assets/a7f08795-45c9-430f-8c38-2b7df14f892c" width="150"> | <img src="https://github.com/user-attachments/assets/9fa1510d-3e1d-4a63-a695-c456a1e54a51" width="150"> | <img src="https://github.com/user-attachments/assets/bd1616e0-c70b-4d36-95a3-7024e1f76dca" width="150"> |
   | [Hypersand](https://github.com/Hypersand) | [wlgus253254](https://github.com/wlgus253254) | [choyeongwook](https://github.com/choyeongwook) | [ykc0131](https://github.com/ykc0131) |   
 <br>
+
+## 🎬 시연 영상
+<a href="https://drive.google.com/file/d/16hur7-hK4gwrQayKX4N2Yj7ppuAdcF2t/view?usp=sharing" target="_blank">
+    <img src="https://github.com/user-attachments/assets/de11c79f-9bcb-4715-bf1c-3e97a4356cb0" alt="YouTube Video" style="width:800px;height:auto;">
+</a>
+
+
 
