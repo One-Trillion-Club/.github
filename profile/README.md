@@ -23,7 +23,6 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
-<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white"> 
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
@@ -36,17 +35,17 @@
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/google sheet-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
 <img src="https://img.shields.io/badge/google docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
-<img src="https://img.shields.io/badge/draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white">
+<img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 
 <br>
 
 ## ⚙️ System Architecture
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/71dd63b5-1a79-4cc9-b4fc-16361c4a4207" width="800px">
 </p>
 
 ## 💻 ERD Diagram
-<p align="center">
+<p>
   <img src="https://github.com/user-attachments/assets/91d199d4-496c-454d-b150-abcb50faedf4" width="800px">
 </p>
 
