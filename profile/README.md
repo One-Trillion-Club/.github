@@ -13,11 +13,15 @@
 
 <br>
 
+## 🎬 시연 영상
+<a href="https://drive.google.com/file/d/16hur7-hK4gwrQayKX4N2Yj7ppuAdcF2t/view?usp=sharing" target="_blank">
+    <img src="https://github.com/user-attachments/assets/e2395a62-694d-4d09-8c22-97ec42ebba49" alt="GoogleDrive Video" style="width:800px;height:auto;">
+</a>
+
 ## 🔧 기술 스택
 ### Development Environment
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-<img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
 <img src="https://img.shields.io/badge/maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
 <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white"/>
@@ -29,7 +33,6 @@
 ### Tool
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/google sheet-34A853?style=for-the-badge&logo=googlesheets&logoColor=white">
 <img src="https://img.shields.io/badge/google docs-4285F4?style=for-the-badge&logo=googledocs&logoColor=white">
@@ -56,11 +59,6 @@
   | <img src="https://github.com/user-attachments/assets/4a27c801-52a1-44ea-9855-96f183fc9c5c" width="150"> | <img src="https://github.com/user-attachments/assets/a7f08795-45c9-430f-8c38-2b7df14f892c" width="150"> | <img src="https://github.com/user-attachments/assets/9fa1510d-3e1d-4a63-a695-c456a1e54a51" width="150"> | <img src="https://github.com/user-attachments/assets/bd1616e0-c70b-4d36-95a3-7024e1f76dca" width="150"> |
   | [Hypersand](https://github.com/Hypersand) | [wlgus253254](https://github.com/wlgus253254) | [choyeongwook](https://github.com/choyeongwook) | [ykc0131](https://github.com/ykc0131) |   
 <br>
-
-## 🎬 시연 영상
-<a href="https://drive.google.com/file/d/16hur7-hK4gwrQayKX4N2Yj7ppuAdcF2t/view?usp=sharing" target="_blank">
-    <img src="https://github.com/user-attachments/assets/de11c79f-9bcb-4715-bf1c-3e97a4356cb0" alt="YouTube Video" style="width:800px;height:auto;">
-</a>
 
 
 
